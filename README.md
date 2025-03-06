@@ -42,10 +42,5 @@ El script realiza las siguientes tareas:
 - Limpia los nombres de los indicadores eliminando el año y espacios en blanco.
 - Guarda la tabla transformada en un nuevo archivo Excel.
 
-## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Puedes utilizarlo y modificarlo libremente.
-
----
-📧 Para consultas o sugerencias, contáctame en [tu correo o perfil de GitHub].
 
